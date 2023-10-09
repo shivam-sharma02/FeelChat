@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\drawable_background_image.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\drawable\\background_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\drawable_background_input.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\drawable\\background_input.xml"
+    },
+    {
+        "merged": "com.example.feelchat.app-merged_res-36:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.feelchat.app-main-38:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\drawable_background_content_top.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\drawable\\background_content_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.feelchat.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.feelchat.app-main-38:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\layout_item_container_received_message.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\layout\\item_container_received_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\drawable_background_sent_message.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\drawable\\background_sent_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.feelchat.app-merged_res-36:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.feelchat.app-main-38:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.feelchat.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.feelchat.app-main-38:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.feelchat.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.feelchat.app-main-38:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.feelchat.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.feelchat.app-main-38:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.feelchat.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.feelchat.app-main-38:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\drawable_ic_send.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\drawable_background_content_bottom.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\drawable\\background_content_bottom.xml"
+    },
+    {
+        "merged": "com.example.feelchat.app-merged_res-36:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.feelchat.app-main-38:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\layout_activity_audio_meme.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\layout\\activity_audio_meme.xml"
+    },
+    {
+        "merged": "com.example.feelchat.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.feelchat.app-main-38:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\layout_item_container_sent_message.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\layout\\item_container_sent_message.xml"
+    },
+    {
+        "merged": "com.example.feelchat.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.feelchat.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\layout_item_container_user.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\layout\\item_container_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.feelchat.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.feelchat.app-main-38:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.feelchat.app-merged_res-36:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.feelchat.app-main-38:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\drawable_background_received_message.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\drawable\\background_received_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\layout_item_container_audiomeme.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\layout\\item_container_audiomeme.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\layout_item_container_recent_conversion.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\layout\\item_container_recent_conversion.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\drawable_background_icon.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\drawable\\background_icon.xml"
+    },
+    {
+        "merged": "com.example.feelchat.app-merged_res-36:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.feelchat.app-main-38:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\drawable_background_chat_input.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\drawable\\background_chat_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\layout_activity_users.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\layout\\activity_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\drawable_meme_image.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\drawable\\meme_image.png"
+    },
+    {
+        "merged": "com.example.feelchat.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.feelchat.app-main-38:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.feelchat.app-merged_res-36:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.feelchat.app-main-38:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.0\\com.example.feelchat.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]

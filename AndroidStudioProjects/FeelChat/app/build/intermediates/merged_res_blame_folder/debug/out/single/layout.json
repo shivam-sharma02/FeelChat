@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.feelchat.app-mergeDebugResources-35:/layout/item_container_received_message.xml",
+        "source": "com.example.feelchat.app-main-38:/layout/item_container_received_message.xml"
+    },
+    {
+        "merged": "com.example.feelchat.app-mergeDebugResources-35:/layout/item_container_sent_message.xml",
+        "source": "com.example.feelchat.app-main-38:/layout/item_container_sent_message.xml"
+    },
+    {
+        "merged": "com.example.feelchat.app-mergeDebugResources-35:/layout/item_container_audiomeme.xml",
+        "source": "com.example.feelchat.app-main-38:/layout/item_container_audiomeme.xml"
+    },
+    {
+        "merged": "com.example.feelchat.app-mergeDebugResources-35:/layout/item_container_user.xml",
+        "source": "com.example.feelchat.app-main-38:/layout/item_container_user.xml"
+    },
+    {
+        "merged": "com.example.feelchat.app-mergeDebugResources-35:/layout/activity_sign_up.xml",
+        "source": "com.example.feelchat.app-main-38:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.feelchat.app-mergeDebugResources-35:/layout/activity_sign_in.xml",
+        "source": "com.example.feelchat.app-main-38:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.example.feelchat.app-mergeDebugResources-35:/layout/activity_audio_meme.xml",
+        "source": "com.example.feelchat.app-main-38:/layout/activity_audio_meme.xml"
+    },
+    {
+        "merged": "com.example.feelchat.app-mergeDebugResources-35:/layout/activity_chat.xml",
+        "source": "com.example.feelchat.app-main-38:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.example.feelchat.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.example.feelchat.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.feelchat.app-mergeDebugResources-35:/layout/activity_users.xml",
+        "source": "com.example.feelchat.app-main-38:/layout/activity_users.xml"
+    },
+    {
+        "merged": "com.example.feelchat.app-mergeDebugResources-35:/layout/item_container_recent_conversion.xml",
+        "source": "com.example.feelchat.app-main-38:/layout/item_container_recent_conversion.xml"
+    }
+]

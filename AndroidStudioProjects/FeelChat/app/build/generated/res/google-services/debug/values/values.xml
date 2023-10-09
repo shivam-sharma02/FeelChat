@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">710051818251-dkqrm5b8rpedhk67ul1jv13qauh9tj6b.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">710051818251</string>
+    <string name="google_api_key" translatable="false">AIzaSyD-SM8WrwTjdt1AXEEMsYqrMsd2wK6Yr4g</string>
+    <string name="google_app_id" translatable="false">1:710051818251:android:fade563a52fb057e5a500e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD-SM8WrwTjdt1AXEEMsYqrMsd2wK6Yr4g</string>
+    <string name="google_storage_bucket" translatable="false">feelchat-43ed7.appspot.com</string>
+    <string name="project_id" translatable="false">feelchat-43ed7</string>
+</resources>
